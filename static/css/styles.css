@@ -1,0 +1,46 @@
+body {
+    background-color: #1dcbe2;
+    text-align: center;
+    overflow-x: hidden;
+
+}
+
+.navbar {
+    background-color: #F5F5F5;
+}
+
+a {
+    color: #4682B4;
+}
+
+a:hover {
+    color: #008080;
+  }
+
+.pos{
+    position: relative;
+    left: 150px;
+}
+
+.result{
+    background: rgb(123, 4, 235);
+    display: hide;
+}
+
+.src{
+    background: rgb(223, 94, 20);
+}
+.src2{
+    background: rgb(223, 94, 20);
+}
+.src3{
+    background: rgb(223, 94, 20);
+}
+
+.btn{
+    font-size: large;
+    position: relative;
+    left: 20px;
+
+}
+
